@@ -1,4 +1,8 @@
 # TPAMI2018
+
+<body>
+  <img class="bg" src="../yao-lab.github.io/images/crysback.jpg" />
+
 % ========================================================================  
 % Relaxed Collaborative Representation, Version 1.0  
 % Copyright(c) 2018 Qianqian Xu, Jiechao Xiong, Qingming Huang, Xiaochun Cao, Yuan Yao  
@@ -24,3 +28,5 @@
 %   
 % Contact: yuany@ust.hk, xuqianqian@ict.ac.cn  
 %----------------------------------------------------------------------  
+
+</body>
