@@ -1,7 +1,6 @@
 # TPAMI2018
 
-<body>
-  <img class="bg" src="../yao-lab.github.io/images/crysback.jpg" />
+<body background="../yao-lab.github.io/images/crysback.jpg" bgcolor="white" lang="EN-US" link="blue" vlink="blue">
 
 % ========================================================================  
 % Relaxed Collaborative Representation, Version 1.0  
