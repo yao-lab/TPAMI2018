@@ -24,6 +24,7 @@
 % Please refer to the following paper:  
 %  
 % Qianqian Xu, Jiechao Xiong, Xiaochun Cao, Qingming Huang, Yuan Yao, “From Social to Individuals: a Parsimonious Path of Multi-level Models for Crowdsourced Preference Aggregation”, IEEE Transactions on Pattern  Analysis and Machine Intelligence (T-PAMI), 41(4):844-856, 2019. [[doi: 10.1109/TPAMI.2018.2817205]](https://ieeexplore.ieee.org/document/8319957)
+
 %   
 % Contact: yuany@ust.hk, xuqianqian@ict.ac.cn  
 %----------------------------------------------------------------------  
